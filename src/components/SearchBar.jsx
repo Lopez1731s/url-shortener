@@ -13,6 +13,7 @@ import {
 } from "mdb-react-ui-kit";
 
 import usePost from "../hooks/usePost";
+import InfoURL from "./InfoURL";
 
 const SearchBar = ({ title }) => {
   const [url, seturl] = useState({
@@ -84,6 +85,7 @@ const SearchBar = ({ title }) => {
             <strong>Error: </strong>Su url no ha podido ser encontrada.
           </MDBTypography>
         )}
+        <InfoURL data={data}/>
       </MDBContainer>
     </>
   );

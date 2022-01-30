@@ -32,8 +32,6 @@ const usePost = () => {
             data: response.data,
             error: undefined,
           });
-
-          console.log(response.data);
         })
         .catch((err) => {
           updateData({
@@ -51,8 +49,6 @@ const usePost = () => {
             data: response.data,
             error: undefined,
           });
-
-          console.log(response.data);
         })
         .catch((err) => {
           updateData({

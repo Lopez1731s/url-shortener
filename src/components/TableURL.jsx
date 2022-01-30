@@ -16,6 +16,7 @@ const TableURL = ({ info }) => {
       selector: (row) => row.shortURL,
     },
   ];
+  
   return (
     <DataTable
       columns={columns}
