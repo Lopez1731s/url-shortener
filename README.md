@@ -14,6 +14,6 @@ Se necesita crear  una cuenta en https://m3o.com/ para obtener un [API TOKEN]( h
 - En la carpeta del repositorio usar el comando: **npm install** o **npm i**
 - Ejecutarlo usando el comando: **npm start**
 
-![1](https://user-images.githubusercontent.com/39103310/151876899-f24300f8-1d37-4ba7-99ac-bf92d619a187.PNG)
 ![2](https://user-images.githubusercontent.com/39103310/151876906-0a1b11b2-99d5-4149-9843-f39b10cb512e.PNG)
+![1](https://user-images.githubusercontent.com/39103310/151876899-f24300f8-1d37-4ba7-99ac-bf92d619a187.PNG)
 ![3](https://user-images.githubusercontent.com/39103310/151876913-e9c42c8b-d1c3-4cf5-a134-ac18e370bc15.PNG)
