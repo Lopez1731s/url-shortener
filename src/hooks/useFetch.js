@@ -9,7 +9,7 @@ const useFetch = (url) => {
   useEffect(() => {
     setLoading(true);
 
-    const token = "MGViNDE2NWQtODBjNS00ODVlLWJmYTktM2M5MGJiNDhiOGU2";
+    const token = "token aqui";
 
     const header = {
       headers: {
