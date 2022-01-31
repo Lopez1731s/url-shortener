@@ -2,6 +2,7 @@ import React from "react";
 import SearchBar from "../components/SearchBar";
 import { MDBRow, MDBCol, MDBContainer } from "mdb-react-ui-kit";
 
+
 const Acortar = () => {
   return (
     <>
